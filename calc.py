@@ -22,7 +22,7 @@ def calculator():
                 print("Exiting the calculator. Goodbye!")
                 break
 
-            a = float(input("Enter first number: "))
+            a = float(input("Enter first number: ")) #enter intefer no
             b = float(input("Enter second number: "))
 
             if choice == 1:
